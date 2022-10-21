@@ -1,2 +1,2 @@
-# side-projects
-my side projects done through college
+# projects
+my projects done through college
