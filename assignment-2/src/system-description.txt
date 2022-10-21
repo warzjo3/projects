@@ -1,1 +1,0 @@
-# Outline the system structure (including necessary files and directories for running the code)
